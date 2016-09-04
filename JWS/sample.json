@@ -1,0 +1,812 @@
+[
+    {
+        "publisher": "Royal Society of Chemistry (RSC)", 
+        "doi": "10.1039/C1CC11427A", 
+        "crawled_date": "2016-08-27", 
+        "title": "Efficient white light emission by upconversion in Yb3+-, Er3+- and Tm3+-doped Y2BaZnO5", 
+        "url": "http://pubs.rsc.org/en/Content/ArticleLanding/2011/CC/c1cc11427a?_escaped_fragment_=divAbstract", 
+        "abstract": "\r \r \r \r We report efficient white upconversion luminescence in Yb %small% %sup%3+ %/sup% %/small%-, Er %small% %sup%3+ %/sup% %/small%- and Tm %small% %sup%3+ %/sup% %/small%-doped monophasic and biphasic Y %small% %sub%2 %/sub% %/small%BaZnO %small% %sub%5 %/sub% %/small% phosphors under 977 nm near-infrared excitation and at low excitation power densities (down to \u223c25 mW mm %small% %sup%\u22122 %/sup% %/small%).\r \r \r \r \r \r \r \r \r \r ", 
+        "pdf_url": "http://pubs.rsc.org/en/content/articlepdf/2011/cc/c1cc11427a", 
+        "reference_list": {
+            "1": {
+                "citation_author": [
+                    " D. Chen", 
+                    " Y. Wang", 
+                    " Y. Yu", 
+                    " P. Huang", 
+                    " F. Weng"
+                ], 
+                "citation_title": "J. Solid State Chem.", 
+                "citation_volume": " 181", 
+                "citation_pages": " 2763", 
+                "citation_date": ""
+            }, 
+            "2": {
+                "citation_author": [
+                    " F. Wang", 
+                    " X. Liu"
+                ], 
+                "citation_title": "J. Am. Chem. Soc.", 
+                "citation_volume": " 130", 
+                "citation_pages": " 5642", 
+                "citation_date": ""
+            }, 
+            "3": {
+                "citation_author": [
+                    " A. Birkel", 
+                    " A. A. Mikhailovsky", 
+                    " A. K. Cheetham"
+                ], 
+                "citation_title": "Chem. Phys. Lett.", 
+                "citation_volume": " 477", 
+                "citation_pages": " 325", 
+                "citation_date": ""
+            }, 
+            "4": {
+                "citation_author": [
+                    " I. Etchart", 
+                    " I. Hern\u00e1ndez", 
+                    " A. Huignard", 
+                    " M. B\u00e9rard", 
+                    " M. Laroche", 
+                    " W. P. Gillin", 
+                    " R. J. Curry", 
+                    " A. K. Cheetham"
+                ], 
+                "citation_title": "J. Appl. Phys.", 
+                "citation_volume": "", 
+                "citation_pages": "", 
+                "citation_date": ""
+            }, 
+            "5": {
+                "citation_author": [
+                    " V. Ovsyankin", 
+                    " P. P. Feofilov"
+                ], 
+                "citation_title": "JETP Lett.", 
+                "citation_volume": " 4", 
+                "citation_pages": " 317", 
+                "citation_date": ""
+            }, 
+            "6": {
+                "citation_author": [
+                    " I. Etchart", 
+                    " A. Huignard", 
+                    " M. B\u00e9rard", 
+                    " M. N. Nordin", 
+                    " I. Hern\u00e1ndez", 
+                    " R. J. Curry", 
+                    " W. P. Gillin", 
+                    " A. K. Cheetham"
+                ], 
+                "citation_title": "J. Mater. Chem.", 
+                "citation_volume": " 20", 
+                "citation_pages": " 3989", 
+                "citation_date": ""
+            }, 
+            "7": {
+                "citation_author": [
+                    " G. Y. Chen", 
+                    " Y. Liu", 
+                    " Y. G. Zhang", 
+                    " G. Somesfalean", 
+                    " Z. G. Zhang", 
+                    " Q. Sun", 
+                    " F. P. Wang"
+                ], 
+                "citation_title": "Appl. Phys. Lett.", 
+                "citation_volume": " 91", 
+                "citation_pages": " 133103", 
+                "citation_date": ""
+            }, 
+            "8": {
+                "citation_author": [
+                    " D. Chen", 
+                    " Y. Wang", 
+                    " K. Zheng", 
+                    " T. Guo", 
+                    " Y. Yu", 
+                    " P. Huang"
+                ], 
+                "citation_title": "Appl. Phys. Lett.", 
+                "citation_volume": " 91", 
+                "citation_pages": " 251903", 
+                "citation_date": ""
+            }, 
+            "9": {
+                "citation_author": [
+                    " Y. Dwivedi", 
+                    " A. Rai", 
+                    " S. B. Rai"
+                ], 
+                "citation_title": "J. Appl. Phys.", 
+                "citation_volume": " 104", 
+                "citation_pages": " 043509", 
+                "citation_date": ""
+            }, 
+            "10": {
+                "citation_author": [
+                    " S. Neeraj", 
+                    " N. Kijima", 
+                    " A. K. Cheetham"
+                ], 
+                "citation_title": "Solid State Commun.", 
+                "citation_volume": " 131", 
+                "citation_pages": " 65", 
+                "citation_date": ""
+            }, 
+            "11": {
+                "citation_author": [
+                    " I. Etchart", 
+                    " I. Hern\u00e1ndez", 
+                    " A. Huignard", 
+                    " M. B\u00e9rard", 
+                    " W. P. Gillin", 
+                    " R. J. Curry", 
+                    " A. K. Cheetham"
+                ], 
+                "citation_title": "J. Mater. Chem.", 
+                "citation_volume": " 21", 
+                "citation_pages": " 1387", 
+                "citation_date": ""
+            }, 
+            "12": {
+                "citation_author": [
+                    " C. Michel", 
+                    " B. Raveau"
+                ], 
+                "citation_title": "J. Solid State Chem.", 
+                "citation_volume": " 43", 
+                "citation_pages": " 73", 
+                "citation_date": ""
+            }, 
+            "13": {
+                "citation_author": [
+                    " V. Mahalingam", 
+                    " F. Mangiarini", 
+                    " F. Vetrone", 
+                    " V. Venkatramu", 
+                    " M. Bettinelli", 
+                    " A. Speghini", 
+                    " J. A. Capobianco"
+                ], 
+                "citation_title": "J. Phys. Chem. C", 
+                "citation_volume": " 112", 
+                "citation_pages": " 17745", 
+                "citation_date": ""
+            }, 
+            "14": {
+                "citation_author": [
+                    " J. S. Kim", 
+                    " P. E. Jeon", 
+                    " Y. H. Park", 
+                    " J. C. Choi", 
+                    " H. L. Park", 
+                    " G. C. Kim", 
+                    " T. W. Kim"
+                ], 
+                "citation_title": "Appl. Phys. Lett.", 
+                "citation_volume": " 85", 
+                "citation_pages": " 3696", 
+                "citation_date": ""
+            }, 
+            "15": {
+                "citation_author": [
+                    " A. S. Gouveia-Neto", 
+                    " L. A. Bueno", 
+                    " R. F. do Nascimento", 
+                    " E. A. da Silva, Jr.", 
+                    " E. B. da Costa", 
+                    " V. B. do Nascimento"
+                ], 
+                "citation_title": "Appl. Phys. Lett.", 
+                "citation_volume": " 91", 
+                "citation_pages": " 091114", 
+                "citation_date": ""
+            }, 
+            "16": {
+                "citation_author": [
+                    " F. Auzel"
+                ], 
+                "citation_title": "C. R. Acad. Sci. (Paris)", 
+                "citation_volume": " 262", 
+                "citation_pages": " 1016", 
+                "citation_date": ""
+            }
+        }, 
+        "authors": [
+            {}
+        ], 
+        "citations": [
+            {
+                "doi": "10.1039/c2tc00556e", 
+                "title": "Anomalous upconversion emission of Eu3+\u2013Yb3+\u2013MoO6 in double perovskites induced by a laser", 
+                "url": "http://dx.doi.org/10.1039/c2tc00556e", 
+                "journal": "J. Mater. Chem. C", 
+                "authors": [
+                    "Shi Ye", 
+                    "De-Chao Yu", 
+                    "Xiao-Ming Wang", 
+                    "En-Hai Song ", 
+                    "Qin-Yuan Zhang"
+                ], 
+                "volume": "1", 
+                "year": "2013", 
+                "pages": "1588"
+            }, 
+            {
+                "doi": "10.1039/C4DT02312A", 
+                "title": "White up-conversion luminescence power and efficiency in Yb3+-, Er3+- and Tm3+-doped BaIn6Y2O13", 
+                "url": "http://dx.doi.org/10.1039/C4DT02312A", 
+                "journal": "Dalton Trans.", 
+                "authors": [
+                    "Jiao Zhang", 
+                    "Yanmin Yang", 
+                    "Chao Mi", 
+                    "Yanzhou Liu", 
+                    "Fang Yu", 
+                    "Xiaohong Li ", 
+                    "Yaohua Mai"
+                ], 
+                "volume": "44", 
+                "year": "2015", 
+                "pages": "1093"
+            }, 
+            {
+                "doi": "10.1039/C4CP02949F", 
+                "title": "Enhanced up-conversion and temperature-sensing behaviour of Er3+and Yb3+co-doped Y2Ti2O7by incorporation of Li+ions", 
+                "url": "http://dx.doi.org/10.1039/C4CP02949F", 
+                "journal": "Phys. Chem. Chem. Phys.", 
+                "authors": [
+                    "B. P. Singh", 
+                    "A. K. Parchur", 
+                    "R. S. Ningthoujam", 
+                    "P. V. Ramakrishna", 
+                    "S. Singh", 
+                    "P. Singh", 
+                    "S. B. Rai ", 
+                    "R. Maalej"
+                ], 
+                "volume": "16", 
+                "year": "2014", 
+                "pages": "22665"
+            }, 
+            {
+                "doi": "10.1039/c3nr34069d", 
+                "title": "Basic understanding of the lanthanide related upconversion emissions", 
+                "url": "http://dx.doi.org/10.1039/c3nr34069d", 
+                "journal": "Nanoscale", 
+                "authors": [
+                    "Hao Dong", 
+                    "Ling-Dong Sun ", 
+                    "Chun-Hua Yan"
+                ], 
+                "volume": "5", 
+                "year": "2013", 
+                "pages": "5703"
+            }, 
+            {
+                "doi": "10.1039/c2jm32074f", 
+                "title": "Fluorene as \u03c0-conjugation linker in N^N Pt(ii) bisacetylide complexes and their applications for triplet\u2013triplet annihilation based upconversion", 
+                "url": "http://dx.doi.org/10.1039/c2jm32074f", 
+                "journal": "J. Mater. Chem.", 
+                "authors": [
+                    "Huimin Guo", 
+                    "Qiuting Li", 
+                    "Lihua Ma ", 
+                    "Jianzhang Zhao"
+                ], 
+                "volume": "22", 
+                "year": "2012", 
+                "pages": "15757"
+            }, 
+            {
+                "doi": "10.1039/c2ra01064j", 
+                "title": "Thienyl-substituted BODIPYs with strong visible light-absorption and long-lived triplet excited states as organic triplet sensitizers for triplet\u2013triplet annihilation upconversion", 
+                "url": "http://dx.doi.org/10.1039/c2ra01064j", 
+                "journal": "RSC Adv.", 
+                "authors": [
+                    "Yinghui Chen", 
+                    "Jianzhang Zhao", 
+                    "Lijuan Xie", 
+                    "Huimin Guo ", 
+                    "Qiuting Li"
+                ], 
+                "volume": "2", 
+                "year": "2012", 
+                "pages": "3942"
+            }, 
+            {
+                "doi": "10.1039/c1ra00469g", 
+                "title": "Triplet\u2013triplet annihilation based upconversion: from triplet sensitizers and triplet acceptors to upconversion quantum yields", 
+                "url": "http://dx.doi.org/10.1039/c1ra00469g", 
+                "journal": "RSC Adv.", 
+                "authors": [
+                    "Jianzhang Zhao", 
+                    "Shaomin Ji ", 
+                    "Huimin Guo"
+                ], 
+                "volume": "1", 
+                "year": "2011", 
+                "pages": "937"
+            }, 
+            {
+                "doi": "10.1039/c3dt32721c", 
+                "title": "Color control and white upconversion luminescence of LaOF:Ln3+ (Ln = Yb, Er, Tm) nanocrystals prepared by the sol\u2013gel Pechini method", 
+                "url": "http://dx.doi.org/10.1039/c3dt32721c", 
+                "journal": "Dalton Trans.", 
+                "authors": [
+                    "Kezhi Zheng", 
+                    "Ye Liu", 
+                    "Zhenyu Liu", 
+                    "Zhe Chen ", 
+                    "Weiping Qin"
+                ], 
+                "volume": "42", 
+                "year": "2013", 
+                "pages": "5159"
+            }, 
+            {
+                "doi": "10.1039/c3ra47264g", 
+                "title": "Green up-conversion luminescence of Yb3+-Er3+ co-doped CaLa2ZnO5 for optically temperature sensing", 
+                "url": "http://dx.doi.org/10.1039/c3ra47264g", 
+                "journal": "RSC Adv.", 
+                "authors": [
+                    "Lin Li", 
+                    "Chongfeng Guo", 
+                    "Sha Jiang", 
+                    "Dinesh K. Agrawal ", 
+                    "Ting Li"
+                ], 
+                "volume": "4", 
+                "year": "2014", 
+                "pages": "6391"
+            }, 
+            {
+                "doi": "10.1039/c4cp00817k", 
+                "title": "Morphology control and multicolor up-conversion luminescence of GdOF:Yb3+/Er3+, Tm3+, Ho3+ nano/submicrocrystals", 
+                "url": "http://dx.doi.org/10.1039/c4cp00817k", 
+                "journal": "Phys. Chem. Chem. Phys.", 
+                "authors": [
+                    "Yang Zhang", 
+                    "Xuejiao Li", 
+                    "Xiaojiao Kang", 
+                    "Zhiyao Hou ", 
+                    "Jun Lin"
+                ], 
+                "volume": "16", 
+                "year": "2014", 
+                "pages": "10779"
+            }, 
+            {
+                "doi": "10.1039/c2cp44195k", 
+                "title": "Structural and up-conversion properties of Er3+ and Yb3+ co-doped Y2Ti2O7 phosphors", 
+                "url": "http://dx.doi.org/10.1039/c2cp44195k", 
+                "journal": "Phys. Chem. Chem. Phys.", 
+                "authors": [
+                    "B. P. Singh", 
+                    "A. K. Parchur", 
+                    "R. K. Singh", 
+                    "A. A. Ansari", 
+                    "P. Singh ", 
+                    "S. B. Rai"
+                ], 
+                "volume": "15", 
+                "year": "2013", 
+                "pages": "3480"
+            }, 
+            {
+                "doi": "10.1039/c2ic90007f", 
+                "title": "Scandium, yttrium, the lanthanides", 
+                "url": "http://dx.doi.org/10.1039/c2ic90007f", 
+                "journal": "Annu. Rep. Prog. Chem.", 
+                "authors": [
+                    "Simon A. Cotton"
+                ], 
+                "volume": "2012", 
+                "year": "Sect. A: Inorg. Chem.", 
+                "pages": "251"
+            }, 
+            {
+                "doi": "10.1016/S1002-0721(12)60417-7", 
+                "title": "Green up-conversion luminescence in Yb3+-Pr3+ co-doped BaRE2ZnO5 (RE=Y, Gd)", 
+                "url": "http://dx.doi.org/10.1016/S1002-0721(12)60417-7", 
+                "journal": "Journal of Rare Earths", 
+                "authors": [
+                    "Lin LI", 
+                    "Chongfeng GUO", 
+                    "Huan JIAO", 
+                    "Ting LI ", 
+                    "Jeong Jung-Hyun"
+                ], 
+                "volume": "31", 
+                "year": "2013", 
+                "pages": "1137"
+            }, 
+            {
+                "doi": "10.1021/cr400478f", 
+                "title": "Upconversion Luminescent Materials: Advances and Applications", 
+                "url": "http://dx.doi.org/10.1021/cr400478f", 
+                "journal": "Chem. Rev.", 
+                "authors": [
+                    "Jing Zhou", 
+                    "Qian Liu", 
+                    "Wei Feng", 
+                    "Yun Sun ", 
+                    "Fuyou Li"
+                ], 
+                "volume": "115", 
+                "year": "2015", 
+                "pages": "395"
+            }, 
+            {
+                "doi": "10.1063/1.4704687", 
+                "title": "Near infrared up-conversion in organic photovoltaic devices using an efficient Yb3+:Ho3+ Co-doped Ln2BaZnO5 (Ln = Y, Gd) phosphor", 
+                "url": "http://dx.doi.org/10.1063/1.4704687", 
+                "journal": "J. Appl. Phys.", 
+                "authors": [
+                    "A. A. Damitha Adikaari", 
+                    "Isabelle Etchart", 
+                    "Paul-Henri Gue\u0301ring", 
+                    "Mathieu Be\u0301rard", 
+                    "S. Ravi P. Silva", 
+                    "Anthony K. Cheetham ", 
+                    "Richard J. Curry"
+                ], 
+                "volume": "111", 
+                "year": "2012", 
+                "pages": "094502"
+            }, 
+            {
+                "doi": "10.1007/s11664-014-3465-y", 
+                "title": "Characterization and Luminescence Properties of Color-Tunable Dy3+-Doped BaY2ZnO5 Nanophosphors", 
+                "url": "http://dx.doi.org/10.1007/s11664-014-3465-y", 
+                "journal": "Journal of Elec Materi", 
+                "authors": [
+                    "Sonika", 
+                    "S.P. Khatkar", 
+                    "Avni Khatkar", 
+                    "Rajesh Kumar ", 
+                    "V.B. Taxak"
+                ], 
+                "volume": "44", 
+                "year": "2015", 
+                "pages": "542"
+            }, 
+            {
+                "doi": "10.1016/j.molstruc.2014.01.009", 
+                "title": "Laser-induced down-conversion and infrared phosphorescence emissivity of novel ligand-free perovskite nanomaterials", 
+                "url": "http://dx.doi.org/10.1016/j.molstruc.2014.01.009", 
+                "journal": "Journal of Molecular Structure", 
+                "authors": [
+                    "M.A. Ahmed", 
+                    "Rasha M. Khafagy ", 
+                    "O. El-sayed"
+                ], 
+                "volume": "1062", 
+                "year": "2014", 
+                "pages": "133"
+            }, 
+            {
+                "doi": "10.1016/j.saa.2014.01.110", 
+                "title": "White-light emitting Eu3+ co-doped ZnO/Zn2SiO4:Mn2+ composite microphosphor", 
+                "url": "http://dx.doi.org/10.1016/j.saa.2014.01.110", 
+                "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy", 
+                "authors": [
+                    "P.V. Ramakrishna", 
+                    "D.B.R.K. Murthy ", 
+                    "D.L. Sastry"
+                ], 
+                "volume": "125", 
+                "year": "2014", 
+                "pages": "234"
+            }, 
+            {
+                "doi": "10.1021/ph500208q", 
+                "title": "Light Management in Upconverting Nanoparticles: Ultrasmall Core/Shell Architectures to Tune the Emission Color", 
+                "url": "http://dx.doi.org/10.1021/ph500208q", 
+                "journal": "ACS Photonics", 
+                "authors": [
+                    "Marta Quintanilla", 
+                    "Fuqiang Ren", 
+                    "Dongling Ma ", 
+                    "Fiorenzo Vetrone"
+                ], 
+                "volume": "1", 
+                "year": "2014", 
+                "pages": "662"
+            }, 
+            {
+                "doi": "10.1002/ejic.201101168", 
+                "title": "Self-Assembled NaY(WO4)2 Hierarchical Dumbbells: Microwave-Assisted Hydrothermal Synthesis and Their Tunable Upconversion Luminescent Properties", 
+                "url": "http://dx.doi.org/10.1002/ejic.201101168", 
+                "journal": "Eur. J. Inorg. Chem.", 
+                "authors": [
+                    "Jingchao Zhang", 
+                    "Wei Wang", 
+                    "Benxian Li", 
+                    "Xinhao Zhang", 
+                    "Xudong Zhao", 
+                    "Xiaoyang Liu ", 
+                    "Ming Zhao"
+                ], 
+                "volume": "2012", 
+                "year": "2012", 
+                "pages": "2220"
+            }, 
+            {
+                "doi": "10.1016/j.jallcom.2015.07.005", 
+                "title": "Anomalous upconversion luminescence of SrMoO4:Yb3+/Er3+ nanocrystals by high excited state energy transfer", 
+                "url": "http://dx.doi.org/10.1016/j.jallcom.2015.07.005", 
+                "journal": "Journal of Alloys and Compounds", 
+                "authors": [
+                    "Dongyu Li", 
+                    "Zhen Huang", 
+                    "Zhongquan Nie", 
+                    "Lixin Zhang", 
+                    "Yunfeng Bai", 
+                    "Xueru Zhang", 
+                    "Yinglin Song ", 
+                    "Yuxiao Wang"
+                ], 
+                "volume": "650", 
+                "year": "2015", 
+                "pages": "799"
+            }, 
+            {
+                "doi": "10.1364/OME.4.001186", 
+                "title": "Tunable white upconversion luminescence from Yb^3+-Tm^3+-Mn^2+ tri-doped perovskite nanocrystals", 
+                "url": "http://dx.doi.org/10.1364/OME.4.001186", 
+                "journal": "Opt. Mater. Express", 
+                "authors": [
+                    "E. H. Song", 
+                    "S. Ding", 
+                    "M. Wu", 
+                    "S. Ye", 
+                    "Z. T. Chen", 
+                    "Y. Y. Ma ", 
+                    "Q. Y. Zhang"
+                ], 
+                "volume": "4", 
+                "year": "2014", 
+                "pages": "1186"
+            }, 
+            {
+                "doi": "10.1016/j.matdes.2015.12.153", 
+                "title": "Red-light-emitting inorganic La2CaZnO5 frameworks with high photoluminescence quantum efficiency: Theoretical approach", 
+                "url": "http://dx.doi.org/10.1016/j.matdes.2015.12.153", 
+                "journal": "Materials &amp; Design", 
+                "authors": [
+                    "Vijay Kumar", 
+                    "S. Som", 
+                    "S. Dutta", 
+                    "Subrata Das ", 
+                    "H.C. Swart"
+                ], 
+                "volume": "93", 
+                "year": "2016", 
+                "pages": "203"
+            }, 
+            {
+                "doi": "10.1016/j.jallcom.2012.10.142", 
+                "title": "White upconversion emission in Yb3+/Tm3+/Ho3+ doped SrMoO4 nanocrystals by high excited state energy transfer", 
+                "url": "http://dx.doi.org/10.1016/j.jallcom.2012.10.142", 
+                "journal": "Journal of Alloys and Compounds", 
+                "authors": [
+                    "Dongyu Li", 
+                    "Yuxiao Wang", 
+                    "Xueru Zhang", 
+                    "Guang Shi", 
+                    "Gang Liu ", 
+                    "Yinglin Song"
+                ], 
+                "volume": "550", 
+                "year": "2013", 
+                "pages": "509"
+            }, 
+            {
+                "doi": "10.7567/APEX.8.072602", 
+                "title": "Observation of upconversion white light and ultrabroad infrared emission in YbAG:Ln3+(Ln = Nd, Sm, Tb, Er)", 
+                "url": "http://dx.doi.org/10.7567/APEX.8.072602", 
+                "journal": "Appl. Phys. Express", 
+                "authors": [
+                    "Yongsheng Zhu", 
+                    "Shaobo Cui", 
+                    "Mao Liu", 
+                    "Xuyan Liu", 
+                    "Cheng Lu", 
+                    "Xiumei Xu ", 
+                    "Wen Xu"
+                ], 
+                "volume": "8", 
+                "year": "2015", 
+                "pages": "072602"
+            }, 
+            {
+                "doi": "10.1016/j.jallcom.2013.10.177", 
+                "title": "Abnormal broadband photoluminescence from Yb3+/Mn2+ codoped barium octaborate", 
+                "url": "http://dx.doi.org/10.1016/j.jallcom.2013.10.177", 
+                "journal": "Journal of Alloys and Compounds", 
+                "authors": [
+                    "F. Xiao", 
+                    "E.H. Song", 
+                    "S. Ye ", 
+                    "Q.Y. Zhang"
+                ], 
+                "volume": "587", 
+                "year": "2014", 
+                "pages": "177"
+            }, 
+            {
+                "doi": "10.1002/ejic.201200109", 
+                "title": "Efficient Triplet-Triplet Annihilation Upconversion with Platinum(II) Bis(arylacetylide) Complexes That Show Long-Lived Triplet Excited States", 
+                "url": "http://dx.doi.org/10.1002/ejic.201200109", 
+                "journal": "Eur. J. Inorg. Chem.", 
+                "authors": [
+                    "Shaomin Ji", 
+                    "Wanhua Wu", 
+                    "Jianzhang Zhao", 
+                    "Huimin Guo ", 
+                    "Wenting Wu"
+                ], 
+                "volume": "2012", 
+                "year": "2012", 
+                "pages": "3183"
+            }, 
+            {
+                "doi": "10.1016/j.jallcom.2015.10.101", 
+                "title": "The emission rise time of BaY2ZnO5:Eu3+ for non-contact luminescence thermometry", 
+                "url": "http://dx.doi.org/10.1016/j.jallcom.2015.10.101", 
+                "journal": "Journal of Alloys and Compounds", 
+                "authors": [
+                    "Xinyue Li", 
+                    "Xiantao Wei", 
+                    "Yanguang Qin", 
+                    "Yonghu Chen", 
+                    "Changkui Duan ", 
+                    "Min Yin"
+                ], 
+                "volume": "657", 
+                "year": "2016", 
+                "pages": "353"
+            }, 
+            {
+                "doi": "10.1016/j.jlumin.2013.08.017", 
+                "title": "Strong white photoluminescence from annealed zeolites", 
+                "url": "http://dx.doi.org/10.1016/j.jlumin.2013.08.017", 
+                "journal": "Journal of Luminescence", 
+                "authors": [
+                    "Zhenhua Bai", 
+                    "Minoru Fujii", 
+                    "Kenji Imakita ", 
+                    "Shinji Hayashi"
+                ], 
+                "volume": "145", 
+                "year": "2014", 
+                "pages": "288"
+            }, 
+            {
+                "doi": "10.1155/2015/380936", 
+                "title": "Tunable Upconversion Luminescence and Energy Transfer Process in BaLa2ZnO5:Er3+/Yb3+Phosphors", 
+                "url": "http://dx.doi.org/10.1155/2015/380936", 
+                "journal": "Advances in Materials Science and Engineering", 
+                "authors": [
+                    "Lefu Mei", 
+                    "Jing Xie", 
+                    "Libing Liao", 
+                    "Ming Guan ", 
+                    "Haikun Liu"
+                ], 
+                "volume": "2015", 
+                "year": "2015", 
+                "pages": "1"
+            }, 
+            {
+                "doi": "10.1016/j.cplett.2012.12.057", 
+                "title": "Continuum emission in Nd3+/Yb3+ co-doped Ca12Al14O33 phosphor: Charge transfer state luminescence versus induced optical heating", 
+                "url": "http://dx.doi.org/10.1016/j.cplett.2012.12.057", 
+                "journal": "Chemical Physics Letters", 
+                "authors": [
+                    "R.K. Verma ", 
+                    "S.B. Rai"
+                ], 
+                "volume": "559", 
+                "year": "2013", 
+                "pages": "71"
+            }, 
+            {
+                "doi": "10.1016/j.jallcom.2012.04.052", 
+                "title": "Green upconversion luminescence in Yb3+/Er3+ co-doped ALn(MoO4)2 (A=Li, Na and K; Ln=La, Gd and Y)", 
+                "url": "http://dx.doi.org/10.1016/j.jallcom.2012.04.052", 
+                "journal": "Journal of Alloys and Compounds", 
+                "authors": [
+                    "Ting Li", 
+                    "Chongfeng Guo", 
+                    "Yerong Wu", 
+                    "Lin Li ", 
+                    "Jung Hyun Jeong"
+                ], 
+                "volume": "540", 
+                "year": "2012", 
+                "pages": "107"
+            }
+        ], 
+        "journal_details": {
+            "jounal_name": "Chem. Commun.", 
+            "volume": "47", 
+            "article_year": "2011/05/24", 
+            "pages": "6263-6265", 
+            "article_issue": "22"
+        }, 
+        "year": "2011/05/24", 
+        "related_articles": [
+            {
+                "title": "Y %small% %sub%2 %/sub% %/small%BaZnO %small% %sub%5 %/sub% %/small%:Er %small% %sup%3+ %/sup% %/small% microcapsules with enhanced upconversion by vanadium ion codoping", 
+                "url": "http://pubs.rsc.org/en/content/articlelanding/2016/ra/c5ra26042f", 
+                "abstract": "Er %small% %sup%3+ %/sup% %/small%/V %small% %sup%5+ %/sup% %/small%/Yb %small% %sup%3+ %/sup% %/small% doped Y %small% %sub%2 %/sub% %/small%BaZnO %small% %sub%5 %/sub% %/small% microcapsules of 1\u20133 \u03bcm were prepared by HT route. Bright green to orange UC was observed by dual 800 and 980 nm laser excitation. More than 3 fold intensification of Er UC was achieved by 3 mol% V %small% %sup%5+ %/sup% %/small% substitution.", 
+                "year": "2016", 
+                "pages": "11554-11561", 
+                "volume": "6", 
+                "authors": [
+                    "Hom Nath Luitel", 
+                    "Rumi Ch,", 
+                    "Toshio Torikai", 
+                    "Mitsunori Yada ", 
+                    "Takanori Watari"
+                ], 
+                "journal": "RSC Adv."
+            }, 
+            {
+                "title": "Mechanoluminescence properties of Mn %small% %sup%2+ %/sup% %/small%-doped BaZnOS phosphor", 
+                "url": "http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc02760a", 
+                "abstract": "In this study, a novel Mn %small% %sup%2+ %/sup% %/small%-doped wide band gap semiconductor, BaZnOS, demonstrates intense elastico-mechanoluminescence (EML) under pressure and friction, and the intensity of emission peaks is proportional to the applied compressive stress.", 
+                "year": "2016", 
+                "pages": "Advance Article", 
+                "volume": "Advance Article", 
+                "authors": [
+                    "Lejing Li", 
+                    "Ka-Leung Wong", 
+                    "Pengfei Li ", 
+                    "Mingying Peng"
+                ], 
+                "journal": "J. Mater. Chem. C"
+            }, 
+            {
+                "title": "Color control and white upconversion luminescence of LaOF:Ln %small% %sup%3+ %/sup% %/small% (Ln = Yb, Er, Tm) nanocrystals prepared by the sol\u2013gel Pechini method", 
+                "url": "http://pubs.rsc.org/en/content/articlelanding/2013/dt/c3dt32721c", 
+                "abstract": "Under 980 nm excitation, multicolor (red, green, blue (RGB), yellow, and white) UCL of Ln %small% %sup%3+ %/sup% %/small% doped LaOF nanocrystals can be artificially devised by using different combinations of Ln %small% %sup%3+ %/sup% %/small% ions at different concentrations.", 
+                "year": "2013", 
+                "pages": "5159-5166", 
+                "volume": "42", 
+                "authors": [
+                    "Kezhi Zheng", 
+                    "Ye Liu", 
+                    "Zhenyu Liu", 
+                    "Zhe Chen ", 
+                    "Weiping Qin"
+                ], 
+                "journal": "Dalton Trans."
+            }, 
+            {
+                "title": "Preparation of Ti mesh supported N\u2013S\u2013C-tridoped TiO %small% %sub%2 %/sub% %/small% nanosheets to achieve high utilization of optical energy for photocatalytic degradation of norfloxacin", 
+                "url": "http://pubs.rsc.org/en/content/articlelanding/2016/ra/c5ra27639j", 
+                "abstract": "The Ti mesh supported N\u2013S\u2013C-tridoped TiO %small% %sub%2 %/sub% %/small% nanosheet (N\u2013S\u2013C/TiO %small% %sub%2 %/sub% %/small%/TMs) catalysts were successfully fabricated by the one-step%em%in situ %/em% hydrothermal synthesis method, and then used for photocatalytic degradation of norfloxacin.", 
+                "year": "2016", 
+                "pages": "17906-17912", 
+                "volume": "6", 
+                "authors": [
+                    "Xiaoyun Zhang", 
+                    "Dong Li", 
+                    "Jiafeng Wan ", 
+                    "Xiujuan Yu"
+                ], 
+                "journal": "RSC Adv."
+            }
+        ], 
+        "publication_details": {
+            "published_online": "2011/05/04", 
+            "published": "2011/05/24"
+        }, 
+        "issn": "1364-548X"
+    }
+]

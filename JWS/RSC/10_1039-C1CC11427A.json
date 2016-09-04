@@ -1,0 +1,45 @@
+{
+    "doi": "10.1039/C1CC11427A", 
+    "authors": [
+        {
+            "Isabelle Etchart": {
+                "department": "Department of Materials Science and Metallurgy, University of Cambridge, Pembroke Street,Cambridge,UK"
+            }
+        }, 
+        {
+            "Mathieu B\u00e9rard": {
+                "department": "Saint-Gobain Recherche, 39 quai Lucien Lefranc,93303 Aubervilliers,France"
+            }
+        }, 
+        {
+            "Marine Laroche": {
+                "department": "Saint-Gobain Recherche, 39 quai Lucien Lefranc,93303 Aubervilliers,France"
+            }
+        }, 
+        {
+            "Arnaud Huignard": {
+                "department": "Saint-Gobain Recherche, 39 quai Lucien Lefranc,93303 Aubervilliers,France"
+            }
+        }, 
+        {
+            "Ignacio Hern\u00e1ndez": {
+                "department": "Saint-Gobain Recherche, 39 quai Lucien Lefranc,93303 Aubervilliers,France"
+            }
+        }, 
+        {
+            "William P. Gillin": {
+                "department": "Department of Physics, Queen Mary University of London, Mile End Road,London,UK"
+            }
+        }, 
+        {
+            "Richard J. Curry": {
+                "department": "Department of Physics, Queen Mary University of London, Mile End Road,London,UK"
+            }
+        }, 
+        {
+            "Anthony K. Cheetham": {
+                "department": "Advanced Technology Institute, University of Surrey, Guildford,Surrey,UK"
+            }
+        }
+    ]
+}
